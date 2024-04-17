@@ -1,4 +1,4 @@
-#chatbot using Keras:
+#Chatbot using Keras:
 ##Overview:
 This project implements a chatbot using Keras, a high-level neural networks API running on top of TensorFlow. The chatbot is designed to engage in conversation with users, responding to their queries and providing relevant information.
 
@@ -15,3 +15,5 @@ Scikit learn
 The chatbot model is trained on a dataset containing pairs of user queries and corresponding responses.
 ##Training:
 The training process involves preprocessing the data, building and training the neural network model using Keras.
+
+
